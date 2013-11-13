@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 use perl5i::2;
-use lib '/Users/scottp/nsip/sif-rest-perl/lib';
-use lib '/Users/scottp/nsip/sif-au-perl/lib';
 use SIF::REST;
 use XML::Simple;
 use Data::Dumper;
